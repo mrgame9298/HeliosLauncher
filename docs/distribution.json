@@ -1,0 +1,29 @@
+{
+    "version": "1.0.0",
+    "discord": {
+        "clientId": "703225538952691712",
+        "smallImageText": "MC-Survie",
+        "smallImageKey": "3ed782baa64344430c19f0399cda14"
+    },
+    "servers": [
+        {
+            "id": "MC-Survie",
+            "name": "Serveur Faction #1",
+            "description": "Example MC-Survie server. Connect for fun!",
+            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/example_icon.png",
+            "version": "0.0.1",
+            "address": "mc.westeroscraft.com:1337",
+            "minecraftVersion": "1.11.2",
+            "discord": {
+                "shortId": "Example",
+                "largeImageText": "WesterosCraft Example Server",
+                "largeImageKey": "server-example"
+            },
+            "mainServer": true,
+            "autoconnect": true,
+            "modules": [
+                "Module Objects Here"
+            ]
+        }
+    ]
+}
