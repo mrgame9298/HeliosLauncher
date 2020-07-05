@@ -10,14 +10,14 @@
             "id": "MC-Survie",
             "name": "Serveur Faction #1",
             "description": "Example MC-Survie server. Connect for fun!",
-            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/example_icon.png",
-            "version": "0.0.1",
-            "address": "mc.westeroscraft.com:1337",
+            "icon": "https://raw.githubusercontent.com/mrgame9298/JSLauncher/master/docs/3ed782baa64344430c19f0399cda14.png",
+            "version": "0.0.2",
+            "address": "173.212.234.39:30149",
             "minecraftVersion": "1.11.2",
             "discord": {
-                "shortId": "Example",
-                "largeImageText": "WesterosCraft Example Server",
-                "largeImageKey": "server-example"
+                "shortId": "Biloutte",
+                "largeImageText": "bilatte",
+                "largeImageKey": "3ed782baa64344430c19f0399cda14"
             },
             "mainServer": true,
             "autoconnect": true,
